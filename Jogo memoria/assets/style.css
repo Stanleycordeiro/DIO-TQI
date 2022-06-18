@@ -1,0 +1,34 @@
+#root {
+   
+}
+
+#memoria {
+    max-width: 30rem;
+}
+
+#memoria #timer {
+    text-align: center;
+    font-size: 30pt;
+    font-weight: bold;
+    background-color: lightgray;
+    border-radius: 10px;
+    border: thin solid black;
+}
+
+#memoria h1 {
+    text-align: center;
+}
+
+#memoria img {
+    margin-bottom: 20px;
+    border: thin solid black;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+
+}
+
+#memoria #rodape {
+    text-align: center;
+
+}
